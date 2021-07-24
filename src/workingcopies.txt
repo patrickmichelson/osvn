@@ -1,0 +1,3 @@
+﻿# List of working copy folders to use
+# C:\svn\repo1\
+# C:\svn\repo2\
